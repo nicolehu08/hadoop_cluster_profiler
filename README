@@ -1,3 +1,5 @@
 Apache V2 Licence
 
+This is a open source contribution from my employer http://m6d.com/
+
 Store information from the job tracker including counters, progress, jobxml info. Put it all in cassandra so you can profile runs of a job, day over day etc.
