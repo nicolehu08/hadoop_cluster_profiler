@@ -1,0 +1,3 @@
+Apache V2 Licence
+
+Store information from the job tracker including counters, progress, jobxml info. Put it all in cassandra so you can profile runs of a job, day over day etc.
